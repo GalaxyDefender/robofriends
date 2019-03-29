@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'Bitsumishi Regular';
+    font-style: normal;
+    font-weight: normal;
+    src: local('Bitsumishi Regular'), url('BITSUMIS.woff') format('woff');
+}
+
+h1  {
+    font-family: 'Bitsumishi Regular';
+    font-weight: 200;
+    color: #cc5200;
+}
